@@ -7,7 +7,7 @@
 
   
 ## Project Overview
-In this project, we apply machine learning techniques to predict the "No-show" outcome in a medical appointments dataset. The goal is to determine whether a patient will show up for their medical appointment based on the features provided in the dataset.
+In this project, I apply visualization techniques for EDA ( Exploratory Data Analysis ) using Python libraries, and applied machine learning to predict the "No-show" outcome in a medical appointments dataset. The goal is to determine whether a patient will show up for their medical appointment based on the features provided in the dataset.
 
 ## Library Requirements
 This project used numpy and pandas to manage the datasets, and use pyplot and seaborn to visualize the data.
